@@ -1,5 +1,5 @@
 #include "TDD/string_calculator.h"
-/*#include <string>*/
+#include <string>
 
 int StringCalculator::Add(const std::string& numbers) {
     if (numbers.empty()) return 0;
