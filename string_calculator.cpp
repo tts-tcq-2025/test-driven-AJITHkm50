@@ -1,4 +1,4 @@
-#include "TDD/string_calculator.h"
+#include "string_calculator.h"
 #include <string>
 
 int StringCalculator::Add(const std::string& numbers) {
